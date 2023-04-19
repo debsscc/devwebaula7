@@ -1,0 +1,26 @@
+html {
+    background-color: #ffffe0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+hr {
+    max-width: 50%;
+    color: darkblue;
+    margin: 0 auto;
+    border:solid 5px;
+}
+
+h2 {
+    color: darkblue;
+}
+ p {
+    color: #08896d;
+    font-size: large;
+ }
+ a{
+    font-weight: bold;
+ }
